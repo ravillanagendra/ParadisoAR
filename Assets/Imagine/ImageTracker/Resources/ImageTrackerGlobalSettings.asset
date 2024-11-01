@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ImageTrackerGlobalSettings
   m_EditorClassIdentifier: 
   imageTargetInfos:
-  - id: Paradiso-Logopng
-    texture: {fileID: 2800000, guid: 9b24af3a82158eb4c888a3af6d5689d1, type: 3}
+  - id: paradiso_dubai_logo
+    texture: {fileID: 2800000, guid: 897abbc7bd3612d4fa74841fe80638a3, type: 3}
   settingsTemplates:
   - {fileID: 11400000, guid: 35c99cc7b662a46eb89cc7a32e239494, type: 2}
   - {fileID: 11400000, guid: 9cf415d375f91458483df57436950575, type: 2}
